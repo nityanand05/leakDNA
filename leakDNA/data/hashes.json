@@ -1,3 +1,30 @@
 {
-    "/home/ishrit/Desktop/projects/leakDNA/text.txt": "a948904f2f0f479b8f8197694b30184b0d2ed1c1cd2a1ec0fb85d299a192a447"
+    "text.txt": {
+        "hash": "a2e4864b9c5d4800c97de57bab1b7729fb01f6a18a57df8bf52a480261fd2680",
+        "owner": "ishrit"
+    },
+    "watched_folder/text.txt": {
+        "hash": "209619e86b29644aac10243c0de2e686c04698548d07162e325aaa5cecd35920",
+        "owner": "ishrit"
+    },
+    "watched_folder/.goutputstream-4U9MO3": {
+        "hash": "e1c8bd618c4f5f2975c30c9faecd56c92e8fcbf46e9b1c4e2bf52bd3e8f52093",
+        "owner": "ishrit"
+    },
+    "watched_folder/.goutputstream-VGKXO3": {
+        "hash": "9e5558d4c0b7498046c6c553efe85db1f0870a336e8c0d80ed0bcb0945db87e4",
+        "owner": "ishrit"
+    },
+    "watched_folder/sample.txt": {
+        "hash": "9e5558d4c0b7498046c6c553efe85db1f0870a336e8c0d80ed0bcb0945db87e4",
+        "owner": "ishrit"
+    },
+    "watched_folder/.goutputstream-F3VIO3": {
+        "hash": "9e5558d4c0b7498046c6c553efe85db1f0870a336e8c0d80ed0bcb0945db87e4",
+        "owner": "ishrit"
+    },
+    "watched_folder/dd.txt": {
+        "hash": "cf5e5bc8ce9508ecea44986d28189c7b2186d402384212dbe56db66d135ffe0c",
+        "owner": "ishrit"
+    }
 }
