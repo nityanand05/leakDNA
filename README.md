@@ -23,8 +23,8 @@ Every file is treated as a traceable entity:
 - Detection of unauthorized file modifications  
 - Leak source identification via embedded markers  
 - System-level user identification (no manual input dependency)  
-- CLI-based workflow  
-- JSON-based persistent storage  
+- CLI based workflow  
+- JSON based persistent storage  
 
 ---
 
